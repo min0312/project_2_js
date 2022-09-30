@@ -1,1 +1,3 @@
-# project_2_dice
+JavaScript
+### 22.09.26
+#### 
