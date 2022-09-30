@@ -1,1 +1,1 @@
-# project_2_js
+# project_2_dice
