@@ -32,7 +32,7 @@ const showOk = () => {
   dispDom("block", "none", "block", "none");
 
   // 주사위 그림
-  let tag = `<img src="../img/${randNum}.png">`;
+  let tag = `<img src="./img/${randNum}.png">`;
   
   // ox그림
   let ox;
@@ -42,7 +42,7 @@ const showOk = () => {
     ox = "x";
   }
 
-  tag = `${tag}<img src="../img/${ox}.png">`;
+  tag = `${tag}<img src="./img/${ox}.png">`;
 
   // 이미지 표시
   document.getElementById("dice").innerHTML=tag;
