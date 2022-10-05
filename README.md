@@ -1,5 +1,5 @@
 + 주사위 게임 실행
-+ https://min0312.github.io/project_2_js_/
++ https://min0312.github.io/project_2_js_dice/
 
 + 실행방법
   + 주사위 버튼을 누른 후 번호를 선택해 맞추는 게임
