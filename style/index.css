@@ -66,6 +66,17 @@ button {
   cursor: pointer;
 }
 
+input[type="radio"]:checked + label {
+  background-color: #6750A4;
+  color: #E8DEF8;
+}
+
+button:hover, button:active {
+  background-color: #6750A4;
+  color: #E8DEF8;
+
+}
+
 label:hover, label:active {
   background-color: #6750A4;
   color: #E8DEF8;
